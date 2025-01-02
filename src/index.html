@@ -1,15 +1,27 @@
 <!doctype html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <link rel="stylesheet" href="styles.css" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Tauri App</title>
-    <script type="module" src="/main.js" defer></script>
-  </head>
 
-  <body>
-    <main class="container">
-    </main>
-  </body>
+<head>
+  <meta charset="UTF-8" />
+  <link rel="stylesheet" href="styles.css" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Tauri App</title>
+  <script type="module" src="/main.js" defer></script>
+  <script>
+    function i18n(code) {
+      document.querySelector(".container").style.backgroundImage = `url('/assets/cover_${code}.png')`
+    }
+  </script>
+</head>
+
+<body>
+  <main class="container">
+    <div class="i18n">
+      <div class="i18n-item" onmousedown="i18n('en')">English</div>
+      <div class="i18n-item" onmousedown="i18n('cn')">中文</div>
+      <div class="i18n-item" onmousedown="i18n('jp')">日本語</div>
+    </div>
+  </main>
+</body>
+
 </html>
