@@ -1,7 +1,7 @@
-# Tauri + Vanilla
+# Cover Fun
 
-This template should help get you started developing with Tauri in vanilla HTML, CSS and Javascript.
+No more nervous when online interview!
 
-## Recommended IDE Setup
+![](image.png)
 
-- [VS Code](https://code.visualstudio.com/) + [Tauri](https://marketplace.visualstudio.com/items?itemName=tauri-apps.tauri-vscode) + [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer)
+Idea from https://x.com/JPT_Struggles/status/1869650142456125880 
