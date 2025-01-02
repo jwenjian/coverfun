@@ -11,12 +11,14 @@
     "windows": [
       {
         "title": "tauri-app",
-        "width": 800,
-        "height": 600,
-        "resizable": false,
-        "fullscreen": true,
+        "width": 1920,
+        "height": 500,
+        "resizable": true,
+        "fullscreen": false,
         "minimizable": true,
-        "transparent": true
+        "transparent": true,
+        "alwaysOnTop": true,
+        "decorations": false
       }
     ],
     "security": {
