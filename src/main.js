@@ -23,21 +23,4 @@ window.addEventListener("DOMContentLoaded", () => {
   document.addEventListener("mousedown", (e) => {
     startDragging();
   });
-
-  // document.addEventListener('wheel', async (e) => {
-  //   e.preventDefault();
-  
-  //   // Adjust scale factor
-  //   scaleFactor += e.deltaY < 0 ? zoomSpeed : -zoomSpeed;
-  //   scaleFactor = Math.max(0.5, Math.min(3, scaleFactor)); // Limit zoom scale
-  
-  //   // Get current window size
-  //   const { width, height } = await window.__TAURI__.window.innerSize();
-  
-  //   // Set new window size
-  //   window.__TAURI__.window.setSize({
-  //     width: Math.round(width * scaleFactor),
-  //     height: Math.round(height * scaleFactor),
-  //   });
-  // });
 });

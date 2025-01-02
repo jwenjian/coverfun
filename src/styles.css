@@ -30,8 +30,8 @@ body {
   text-align: center;
   background-image: url("/assets/cover.png");
   background-repeat: no-repeat;
-  background-size: cover;
-  height: 100vh;
+  background-size: contain;
+  min-height: 400px;
   width: 100vw;
   overflow: hidden;
 }
