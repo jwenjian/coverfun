@@ -11,3 +11,5 @@
 ![](image.png)
 
 原帖子： https://x.com/JPT_Struggles/status/1869650142456125880 
+
+> 如果你喜欢这个项目, 那么你大概率对我的[科技周刊](https://1link.fun)也感兴趣, 我每周会分享 10 个有趣的链接, 欢迎[订阅](https://www.xiaobot.net/p/1link?refer=cd147f62-e3cc-4dd4-8cde-fb2ed1f1be40)
