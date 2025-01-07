@@ -12,4 +12,4 @@ Have fun!
 
 ![](image.png)
 
-Idea from https://x.com/JPT_Struggles/status/1869650142456125880 
+Idea from https://x.com/JPT_Struggles/status/1869650142456125880  
